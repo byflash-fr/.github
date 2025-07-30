@@ -1,1 +1,1 @@
-<img src="logo.png" alt="La meilleur boisson au monde !">
+<img src="logo.png" alt="La meilleur chose au monde !">
