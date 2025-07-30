@@ -1,1 +1,1 @@
-<img src="../logo.jpg" alt="Le bureau de Byflash">
+<img src="../logo.png" alt="Le bureau de Byflash">
