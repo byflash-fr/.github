@@ -1,142 +1,101 @@
-\<div align="center"\>
+<p align="center">
+  <img src="assets/logo.png" alt="Byflash Logo" width="200"/>
+</p>
 
-\<img src="assets/logo.png" alt="Byflash Logo" width="200"/\>
+<h1 align="center">Byflash - L'alternative gratuite à WeTransfer</h1>
 
-# **Byflash \- L'alternative gratuite à WeTransfer**
+<p align="center">
+  <b>Envoyez vos fichiers volumineux gratuitement jusqu'à 2 Go.</b><br>
+  <i>Transfert rapide et sécurisé, stockage illimité et drive open-source.</i>
+</p>
 
-**Envoyez vos fichiers volumineux gratuitement jusqu'à 2 Go.**
+<p align="center">
+  <a href="https://byflash.fr/">🌍 Visiter le site</a> •
+  <a href="https://drive.byflash.fr">☁️ Accéder au Drive</a> •
+  <a href="https://help.byflash.fr">📚 Centre d'aide</a> •
+  <a href="https://api.byflash.fr/">⚙️ Documentation API</a>
+</p>
 
-*Transfert rapide et sécurisé, stockage illimité et drive open-source.*
+---
 
-[🌍 Visiter le site](https://byflash.fr/) •
-
-[☁️ Accéder au Drive](https://drive.byflash.fr) •
-
-[📚 Centre d'aide](https://help.byflash.fr) •
-
-[⚙️ Documentation API](https://api.byflash.fr/)
-
-\</div\>
-
-## **⚡ À propos de Byflash**
+## ⚡ À propos de Byflash
 
 **Byflash** est la solution ultime pour vos transferts de fichiers volumineux. Pensée pour être simple, rapide et entièrement sécurisée, notre plateforme se positionne comme la meilleure alternative gratuite aux services traditionnels d'envoi de fichiers.
 
-### **Fonctionnalités principales**
+### Fonctionnalités principales
 
-* 🚀 **Rapide :** Transfert ultra-rapide de vos fichiers grâce à notre infrastructure optimisée.  
-* 🔒 **Sécurisé :** Vos fichiers sont chiffrés de bout en bout et protégés (mot de passe optionnel).  
-* 🌍 **Accessible :** Partagez partout dans le monde, avec une interface bilingue (FR/EN).  
-* ✉️ **Partage simplifié :** Envoi direct par email avec système de tags intuitif ou par simple lien.  
+* 🚀 **Rapide :** Transfert ultra-rapide de vos fichiers grâce à notre infrastructure optimisée.
+* 🔒 **Sécurisé :** Vos fichiers sont chiffrés de bout en bout et protégés (mot de passe optionnel).
+* 🌍 **Accessible :** Partagez partout dans le monde, avec une interface bilingue (FR/EN).
+* ✉️ **Partage simplifié :** Envoi direct par email avec système de tags intuitif ou par simple lien.
 * 🛡️ **Vérification anti-spam :** Protégé par une vérification par email (code à 4 chiffres) ou un simple calcul mathématique.
 
-## **📸 Aperçu de la plateforme**
+## 📸 Aperçu de la plateforme
 
-# **\<\!--**
+<p align="center">
+  <img src="assets/og-image.png" alt="Interface d'accueil Byflash" width="800"/>
+  <br>
+  <i>Interface principale de glisser-déposer.</i>
+</p>
 
-# **EMPLACEMENT DES IMAGES : Ajoutez vos captures d'écran ici. Idéalement, utilisez des images au format .png ou .webp avec une belle résolution.**
+<p align="center">
+  <img src="assets/driveimage.png" alt="Interface Byflash Drive" width="800"/>
+  <br>
+  <i>Byflash Drive - Votre espace de stockage réinventé.</i>
+</p>
 
-\--\>
-
-\<div align="center"\>
-
-\<img src="assets/og-image.png" alt="Interface d'accueil Byflash" width="800"/\>
-
-\<p\>\<i\>Interface principale de glisser-déposer.\</i\>\</p\>
-
-\</div\>
-
-\<\!-- Vous pouvez décommenter la suite et ajouter d'autres images (ex: le Drive) \--\>
-
-\<\!--
-
-\<div align="center"\>
-
-\<img src="assets/driveimage.png" alt="Interface Byflash Drive" width="800"/\>
-
-\<p\>\<i\>Byflash Drive \- Votre espace de stockage réinventé.\</i\>\</p\>
-
-\</div\>
-
-\--\>
-
-## **☁️ Byflash Drive**
+## ☁️ Byflash Drive
 
 Nous ne faisons pas qu'envoyer des fichiers. Nous vous aidons à les stocker.
 
 **Byflash Drive** est notre solution de stockage en ligne avec un logiciel **Open-Source**.
 
-* **Stockage illimité :** Profitez d'un espace adapté à vos besoins.  
-* **Open-source :** Modifiez à votre guise notre drive qui utilise l'API de Byflash.  
+* **Stockage illimité :** Profitez d'un espace adapté à vos besoins.
+* **Open-source :** Modifiez à votre guise notre drive qui utilise l'API de Byflash.
 * 🔗 [Découvrir le code source du Drive](https://github.com/byflash-fr/drive-byflash-fr)
 
-## **🌌 L'Écosystème "Byflash System"**
+## 🌌 L'Écosystème "Byflash System"
 
-Byflash fait partie d'un réseau plus large d'outils et de services technologiques pensés pour la performance et l'innovation. Découvrez nos autres plateformes :
+Byflash fait partie d'un réseau plus large d'outils et de services technologiques.
 
-### **🖥️ [Binat](https://binat.fr/)**
-
+### 🖥️ [Binat](https://binat.fr/)
 **Votre serveur. Notre obsession.**
+Binat est notre infrastructure cloud taillée pour la performance (VPS, NVMe, 10Gbps).
 
-Binat est notre infrastructure cloud taillée pour la performance. Hébergement Web et VPS bare-metal garantissant un uptime de 99.9%, un stockage NVMe ultra-rapide et une bande passante de 10Gbps. Déployez en quelques secondes et dormez tranquille.
+### 💬 [Tchot](https://tchot.net/)
+Plateforme de messagerie instantanée ultra-sécurisée et open source.
 
-### **💬 [Tchot](https://tchot.net/)**
+### 🛠️ [Zelik](https://zelik.fr/)
+Système d’exploitation cloud synchronisé avec votre compte Byflash.
 
-*Service de l'écosystème Byflash.*
+### 🥣 [Touill'](https://touill.fr/)
+Moteur de recherche indépendant respectueux de la vie privée.
 
-Tchot.net est une plateforme de messagerie instantanée française, ultra-sécurisée et open source, axée sur l'anonymat total.
-Elle utilise un chiffrement de bout en bout sans collecte de métadonnées, ne nécessitant ni mail ni numéro de téléphone pour fonctionner.
+### 📐 [Bancal](https://bancal.tech/)
+Laboratoire IA et outils d'analyse de données.
 
-### **🛠️ [Zelik](https://zelik.fr/)**
+## 💰 Nos Offres
 
-*Service de l'écosystème Byflash.*
-
-Zelik.fr est un système d’exploitation cloud qui charge et synchronise automatiquement vos fichiers et paramètres depuis votre compte Byflash.
-Il transforme votre navigateur en un bureau virtuel complet avec terminal et éditeur de code pour gérer vos données en toute mobilité.
-
-### **🥣 [Touill'](https://touill.fr/)**
-
-*Service de l'écosystème Byflash.* 
-
-Touill.fr est un moteur de recherche indépendant et français développé par Byflash, qui indexe le web et les images en temps réel.
-Il se distingue par son approche respectueuse de la vie privée (sans traçage tiers) et propose des opérateurs de recherche avancés pour des résultats précis.
-
-### **📐 [Bancal](https://bancal.tech/)**
-
-*Service de l'écosystème Byflash.* 
-
-Bancal.tech est le laboratoire interne de Byflash combinant une interface conversationnelle IA avec des outils d'analyse et de géosystèmes.
-
-## **💰 Nos Offres**
-
-Nous proposons des offres adaptées à tous les besoins, du particulier au professionnel :
-
-|  | Gratuit | Pro | Entreprise |
-| :---- | :---- | :---- | :---- |
+| Caractéristique | Gratuit | Pro | Entreprise |
+| :--- | :--- | :--- | :--- |
 | **Prix** | **0€ /mois** | **2€ /mois** | **Sur mesure** |
 | **Taille max.** | ∞ GB | ∞ GB | Illimité |
 | **Validité liens** | 7 jours | 30 jours | Permanent |
-| **Avantages** | Transferts illimités | Support prioritaire | API dédiée & Support 24/7 |
+| **Avantages** | Transferts illimités | Support prioritaire | API & Support 24/7 |
 
 👉 [Gérer mon espace](https://my.byflash.fr/)
 
-## **🛠️ Stack Technique & Développement**
+## 🛠️ Stack Technique
 
-Le front-end de Byflash est conçu avec les technologies suivantes :
+* **Front-end :** HTML5 / CSS3 (Glassmorphism) / JS Vanilla.
+* **Back-end :** API Byflash dédiée.
 
-* **HTML5 / CSS3** (Design moderne, mode sombre natif, glassmorphism)  
-* **JavaScript (Vanilla)** pour la logique de transfert, les animations et la gestion des traductions.  
-* **API Byflash** en backend pour le traitement des fichiers lourds.
+## 📞 Support & Liens utiles
 
-## **📞 Support & Liens utiles**
+* **Status :** [status.byflash.fr](https://status.byflash.fr)
+* **Aide :** [help.byflash.fr](https://help.byflash.fr)
+* **Contact :** contact@help.byflash.fr
 
-* **Status des services :** [status.byflash.fr](https://status.byflash.fr)  
-* **Centre d'aide :** [help.byflash.fr](https://help.byflash.fr)  
-* **Contact Support :** contact@help.byflash.fr  
-* **Mentions Légales :** [legal.byflash.fr](https://legal.byflash.fr/)
-
-\<div align="center"\>
-
-\<sub\>© 2025 Byflash. Tous droits réservés.\</sub\>
-
-\</div\>
+<p align="center">
+  <sub>© 2025 Byflash. Tous droits réservés.</sub>
+</p>
