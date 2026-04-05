@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/logo.png" alt="Byflash Logo" width="200"/>
+  <img src="../assets/logo.png" alt="Byflash Logo" width="200"/>
 </p>
 
 <h1 align="center">Byflash - L'alternative gratuite à WeTransfer</h1>
@@ -33,13 +33,13 @@
 ## 📸 Aperçu de la plateforme
 
 <p align="center">
-  <img src="assets/og-image.png" alt="Interface d'accueil Byflash" width="800"/>
+  <img src="../assets/og-image.png" alt="Interface d'accueil Byflash" width="800"/>
   <br>
   <i>Interface principale de glisser-déposer.</i>
 </p>
 
 <p align="center">
-  <img src="assets/driveimage.png" alt="Interface Byflash Drive" width="800"/>
+  <img src="../assets/driveimage.png" alt="Interface Byflash Drive" width="800"/>
   <br>
   <i>Byflash Drive - Votre espace de stockage réinventé.</i>
 </p>
