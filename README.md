@@ -48,7 +48,7 @@
 
 Nous ne faisons pas qu'envoyer des fichiers. Nous vous aidons à les stocker.
 
-**Byflash Drive** est notre solution de stockage en ligne avec un logiciel **Open-Source** (Via API).
+**Byflash Drive** est notre solution de stockage en ligne avec un logiciel **Open-Source** (Via avec l'API).
 
 * **Stockage illimité :** Profitez d'un espace adapté à vos besoins.
 * **Open-source :** Modifiez à votre guise notre drive qui utilise l'API de Byflash.
